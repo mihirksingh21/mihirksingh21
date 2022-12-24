@@ -15,8 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://www.instagram.com/p/CP2xea5sxCC/?utm_source=ig_embed&ig_rid=16e5ba56-f42a-4d78-8058-20d3934160a0" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=mihirksingh21&icon=6&color=0)](https://visitcount.itsvg.in)
+
