@@ -52,10 +52,10 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 📊 Github Stats
-<a href="https://github.com/mihirksingh21/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirksingh21&show_icons=true&theme=gruvbox" />
+<a href='https://github.com/mihirksingh21/github-stats-transparent'> 
+![Mihir's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihirksingh21&show_icons=true&theme=gruvbox))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mihirksingh21&layout=compact)](https://github.com/mihirksingh21/github-readme-stats)
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 <!--
