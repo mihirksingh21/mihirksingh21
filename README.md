@@ -12,7 +12,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
+- 🔭 &nbsp; I’m currently working on **Geolocation tracking-app**
 - 🤝 &nbsp; I’m looking to collaborate on [Blender project](https://github.com/mihirksingh21/Blender-Project)
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mihirksingh21?tab=repositories)
